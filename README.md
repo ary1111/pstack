@@ -1,0 +1,2 @@
+# pstack
+Parallelogram Stacking Aglorithm
